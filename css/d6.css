@@ -1,0 +1,106 @@
+.jq{
+	border:1px solid #ffffff;
+	margin-top: 30px;
+	height: 500px;
+}
+.jq>ul>li{
+		margin-left: 60px;
+		font-size: 30px;font-weight: bolder;float: left;
+	}
+.jjq{
+	margin-top: 90px;
+	border: 0px solid #FF0000;
+}
+.jjq>li{
+	margin-left: 150px;
+}
+.jjq li img:hover{
+		transform: scale(1.02);
+		 transition: transform 0.5s ease 0s;
+		 }
+.footer{
+	background-color: #fbfbfb;
+	width: 100%;
+	color: #ccc;
+	height: 230px;
+}
+.foot{
+	width: 1200px;
+	margin: auto;
+	padding: 70px 0 70px 76px;
+	position: relative;
+}
+.flshop{
+	float: left;
+}
+ul,li{
+	list-style: none;
+}
+.foot-title{
+	    font-size: 18px;
+	    line-height: 16px;
+	    margin-bottom: 18px;
+	    font-weight: 600;
+	    color: #000000;
+}
+a{
+	text-decoration: none;
+	outline: none;
+	color: #000;
+}
+.foot>li>a{
+	display: block;
+	font-size:13px ;
+	line-height: 13px;
+	margin-bottom: 15px;
+	margin-right: 50px;
+}
+.social{
+	width: 223px;
+	height: 120px;
+	border-left: 0px solid #ccc;
+	margin-left: 820px;
+	padding-left: 50px;
+}
+.kef h3{
+	font-size: 20px;
+	letter-spacing: 0;
+	text-align: left;
+	color: #FF0000;
+}
+.kef span{
+	font-size: 12px;
+	color: #E0E0E0;
+	letter-spacing: 0;
+	text-align: left;
+	line-height: 25px;
+}
+.kef-a{
+	background: url(https://p4.lefile.cn/product/adminweb/2019/08/19/23575141-fd1c-4488-b3a0-08ee2e7d0f8a.png);
+	display: inline-block;
+	width: 139px;
+	height: 36px;
+}
+.foot-bot{
+	border-top: px solid #424141;
+	background: #d0d0d0;
+	
+}
+.foot-bot .foot-bot-con{
+	color: #000000;
+}
+.foot-bot-con{
+	width: 1510px;
+	margin: auto;
+	font-size: 12px;
+	line-height: 46px;
+	
+	border: px solid #000000;
+}
+.foot-bot-left{
+	margin-left: 100px;
+	
+}
+.foot-bot-right{
+	float: right;
+}

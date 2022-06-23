@@ -1,0 +1,13 @@
+.ddd{width: 620px; margin-left: 150px;margin-top: -100px;}
+      body,ul{;padding:0;}
+      ul{list-style:none;}
+      .aaa-box{width:615px;margin:10px;}
+      .aaa-head{height:31px; margin-top: 200px;margin-left: 780px;}
+      .aaa-head-div{margin-bottom: 116px; width:95px;height:30px;background:#ffffff;line-height:30px;text-align:center;cursor:pointer;color:#000000;margin-right: 5px;}
+      .aaa-head .luck{background:#ffdb92;border-bottom:1px solid #fff;color:#000;}
+      .aaa-body-div{display:none;;margin-top: -30px;}
+      .aaa-body .luck{display:block;}
+	  a{color: #000000;}
+	.aaa-head img:hover {
+		border-bottom: 4px solid #d50000;
+	}
